@@ -1,0 +1,26 @@
+{
+  "name": "digital-demis",
+  "version": "1.0.0",
+  "description": "A resource for parents to explore ways to weaken their childs dependencies on technology",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksondonovan/Digital-Demis.git"
+  },
+  "author": "Jackson Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksondonovan/Digital-Demis/issues"
+  },
+  "homepage": "https://github.com/jacksondonovan/Digital-Demis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "path": "^0.12.7"
+  }
+}
